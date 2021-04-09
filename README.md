@@ -4,7 +4,7 @@
 - ⏰ Age: 14
 - ❤ Love: Aranza
 
-> Favorites Lenguaje
+> Favorites Lenguajes
 
 - PhP
 - Java
