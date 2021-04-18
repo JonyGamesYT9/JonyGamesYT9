@@ -10,7 +10,7 @@
 
 <p align="center"><a href="#">
   <img src="https://github-profile-trophy.vercel.app/?username=JonyGamesYT9&margin-w=28&margin-h=15&theme=nord" />
-</p></a>
+</p></a></p>
 
 <p align="center"><a href="#">
   <img src="https://img.shields.io/badge/-Java-2e3440?logoColor=81a1c1&logo=Java" />
