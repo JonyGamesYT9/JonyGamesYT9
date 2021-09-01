@@ -37,4 +37,11 @@
 
 <br/>
 
+<a href="https://github.com/JonyGamesYT9">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonyGamesYT9&show_icons=true&count_private=true"/>
+  <br/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonyGamesYT9&layout=compact"/>
+  <br/>
+</a>
+
 > Theme by: JustJ0rd4n
