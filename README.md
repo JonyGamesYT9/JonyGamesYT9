@@ -13,7 +13,7 @@
 
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![Java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlOq5Bt-XVt532RT_ZKE13YUKMgwcvHHPbpA&usqp=CAU)
+  ![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
 
 <h5> 🛢 &nbsp;Databases: </h5>
 
@@ -29,7 +29,6 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   ![PHPStorm](https://img.shields.io/badge/PHPStorm-D06EF7?style=for-the-badge&logo=phpstorm&logoColor=black)
-  ![Acode Premium](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKaX4aqr8Vkf9-CU_vJ6XeU1XzBKWx4HrEGg&usqp=CAU)
 
 <h3> 🤝🏻 &nbsp;Contact Me </h3>
 
