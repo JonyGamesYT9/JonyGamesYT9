@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; I study in secondary school. (3th grade)
-- 💼 &nbsp; [LatamMC](https://www.github.com/LatamMC)'s Founder.
 - ✍️ &nbsp; Trying to be one of the most recognized in the community.
 
 
@@ -43,5 +42,3 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonyGamesYT9&layout=compact"/>
   <br/>
 </a>
-
-> Theme by: JustJ0rd4n
