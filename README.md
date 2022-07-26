@@ -2,8 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; I study in secondary school. (3th grade)
-- ✍️ &nbsp; Trying to be one of the most recognized in the community.
+- 🎓 &nbsp; I am currently in the 1st semester of High School.
 
 
 
