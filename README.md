@@ -11,7 +11,7 @@
 
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-fff?&style=for-the-badge&logo=Java&logoColor=007396)
 
 <h5> 🛢 &nbsp;Databases: </h5>
 
