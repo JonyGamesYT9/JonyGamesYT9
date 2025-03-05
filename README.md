@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; I am currently in the 3st semester of High School.
+- 🎓 &nbsp; I am currently in the 6st semester of High School.
 
 
 
